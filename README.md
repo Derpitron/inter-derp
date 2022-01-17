@@ -9,6 +9,8 @@ like contextual alternates that adjusts punctuation depending on the shape of
 surrounding glyphs, slashed zero for when you need to disambiguate "0" from "o",
 tabular numbers, etc.
 
+**This is my personal fork of Inter, with some stylistic alternates added to it. Please visit the upstream repo for stable font builds.**
+
 [![Sample](docs/res/sample.png)](https://rsms.me/inter/samples/)
 
 ### [⬇︎ Download the latest release](https://github.com/rsms/inter/releases/latest)
