@@ -111,6 +111,8 @@ sub uni1F38 by uni1F38.1;
 sub uni1F39 by uni1F39.1;
 sub uni1F3A by uni1F3A.1;
 sub uni1F3B by uni1F3B.1;
+
+sub t by t.ss05;
 sub uni1F3C by uni1F3C.1;
 sub uni1F3D by uni1F3D.1;
 sub uni1F3E by uni1F3E.1;
@@ -121,3 +123,7 @@ sub uni1FDA by uni1FDA.1;
 sub uni1FDB by uni1FDB.1;
 sub afii10055 by afii10055.1;
 sub afii10056 by afii10056.1;
+
+sub t by t.ss05;
+
+sub y by y.ss05;
