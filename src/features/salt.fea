@@ -121,7 +121,3 @@ sub uni1FDA by uni1FDA.1;
 sub uni1FDB by uni1FDB.1;
 sub afii10055 by afii10055.1;
 sub afii10056 by afii10056.1;
-
-sub t by t.ss05;
-
-sub y by y.ss05;
