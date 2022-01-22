@@ -158,6 +158,15 @@
     - "i›r‹d"
     - "Mon›r‹oe"
 
+- title: "Stylistic set 5: Straight Tailed Letters"
+  tag:   ss05
+  description:
+    l, t, and y have straight tails
+    Note that individual character styles can be cherry-picked using the cvXX
+    features.
+  samples:
+    - "Henry was ›l‹oved by ›t‹he ›y‹outh."
+
 
 - title: Slashed zero
   tag:   zero
@@ -180,4 +189,5 @@
     - {feat: cv09, alt: "Flat top three", sample: "3"}
     - {feat: cv10, alt: "Capital G with spur", sample: "G Ǥ Ɠ Ĝ Ğ Ġ Ģ Ǧ Ǵ Ḡ"}
     - {feat: cv11, alt: "Single-storey a", sample: "a á ă ắ ặ ằ ẳ ẵ ǎ â ấ ậ ầ ẩ ẫ ȁ ä ǟ ȧ ạ ǡ à ả ȃ ā ą ẚ å ǻ ḁ ã"}
-
+    - {feat: cv12, alt: "Straight-tailed t", sample: "t"}
+    - {feat: cv13, alt: "Straight-tailed y", sample: "y"}
