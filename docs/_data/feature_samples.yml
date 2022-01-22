@@ -165,7 +165,7 @@
     Note that individual character styles can be cherry-picked using the cvXX
     features.
   samples:
-    - "Henry was ›l‹oved by ›t‹he ›y‹outh."
+    - "Henry was loved by ›t‹he ›y‹outh."
 
 
 - title: Slashed zero

@@ -1,19 +1,5 @@
 featureNames { name "Straight Tailed Letters"; };
 
-sub l.ss02 by l;
-sub lslash.ss02 by lslash;
-sub lbar.ss02 by lbar;
-sub lmidtilde.ss02 by lmidtilde;
-sub lbelt.ss02 by lbelt;
-sub ldot.ss02 by ldot;
-sub lacute.ss02 by lacute;
-sub lcommaaccent.ss02 by lcommaaccent;
-sub lcaron.ss02 by lcaron;
-sub ldotbelow.ss02 by ldotbelow;
-sub ldotbelowmacron.ss02 by ldotbelowmacron;
-sub llinebelow.ss02 by llinebelow;
-sub lcircumflexbelow.ss02 by lcircumflexbelow;
-
 sub t by t.ss05;
 sub tpalatalhook by tpalatalhook.ss05;
 sub tturn by tturn.ss05;
