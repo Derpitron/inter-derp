@@ -1,0 +1,120 @@
+{
+glyphname = dong;
+kernLeft = o;
+layers = (
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (458,583);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (120,-158);
+ref = underscore;
+}
+);
+width = 1246;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (418,583);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (178,-126);
+ref = underscore;
+}
+);
+width = 1322;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (522,582);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (126,-178);
+ref = underscore;
+}
+);
+width = 1190;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (414,542);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (106,-158);
+ref = underscore;
+}
+);
+width = 1160;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (378,541);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (170,-126);
+ref = underscore;
+}
+);
+width = 1280;
+},
+{
+layerId = m011;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (522,540);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (93,-178);
+ref = underscore;
+}
+);
+width = 1062;
+}
+);
+metricLeft = d;
+metricRight = d;
+tags = (
+"TODO-opsz"
+);
+unicode = 8363;
+}

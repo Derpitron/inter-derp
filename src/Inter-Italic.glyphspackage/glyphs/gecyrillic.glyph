@@ -1,0 +1,205 @@
+{
+glyphname = gecyrillic;
+kernLeft = m;
+kernRight = T.sc;
+layers = (
+{
+anchors = (
+{
+name = cross;
+pos = (245,558);
+},
+{
+name = cyrtic;
+pos = (329,58);
+},
+{
+name = top;
+pos = (621,1304);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,1118,l),
+(65,0,l),
+(237,0,l),
+(397,958,l),
+(915,958,l),
+(941,1118,l)
+);
+}
+);
+width = 941;
+},
+{
+anchors = (
+{
+name = cross;
+pos = (309,622);
+},
+{
+name = cyrtic;
+pos = (607,162);
+},
+{
+name = top;
+pos = (629,1304);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,1118,l),
+(9,0,l),
+(395,0,l),
+(533,818,l),
+(959,818,l),
+(1009,1118,l)
+);
+}
+);
+width = 963;
+},
+{
+anchors = (
+{
+name = cross;
+pos = (223,558);
+},
+{
+name = cyrtic;
+pos = (173,-6);
+},
+{
+name = top;
+pos = (617,1304);
+}
+);
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,1118,l),
+(105,0,l),
+(153,0,l),
+(329,1070,l),
+(897,1070,l),
+(905,1118,l)
+);
+}
+);
+width = 933;
+},
+{
+anchors = (
+{
+name = cross;
+pos = (217,558);
+},
+{
+name = cyrtic;
+pos = (300,58);
+},
+{
+name = top;
+pos = (594,1304);
+}
+);
+layerId = m008;
+name = ital_gen;
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,1118,l),
+(39,0,l),
+(209,0,l),
+(367,958,l),
+(885,958,l),
+(912,1118,l)
+);
+}
+);
+width = 876;
+},
+{
+anchors = (
+{
+name = cross;
+pos = (295.562,622);
+},
+{
+name = cyrtic;
+pos = (597.409,162);
+},
+{
+name = top;
+pos = (624.466,1304);
+}
+);
+layerId = m010;
+name = ital_gen;
+shapes = (
+{
+closed = 1;
+nodes = (
+(183.674,1118,l),
+(-1.41,0,l),
+(384.59,0,l),
+(520.009,818,l),
+(948.009,818,l),
+(997.674,1118,l)
+);
+}
+);
+width = 932;
+},
+{
+anchors = (
+{
+name = cross;
+pos = (158,558);
+},
+{
+name = cyrtic;
+pos = (107,-6);
+},
+{
+name = top;
+pos = (553,1304);
+}
+);
+layerId = m012;
+name = ital_gen;
+shapes = (
+{
+closed = 1;
+nodes = (
+(227,1118,l),
+(42,0,l),
+(88,0,l),
+(265,1070,l),
+(833,1070,l),
+(841,1118,l)
+);
+}
+);
+width = 799;
+}
+);
+metricLeft = m;
+metricRight = tecyrillic;
+unicode = 1075;
+userData = {
+interface.gridadjust.original = "{'width': 1181, 'leftMargin': 210, 'rightMargin': 23}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}
