@@ -10,7 +10,11 @@ shapes = (
 ref = aring;
 },
 {
+<<<<<<< HEAD
 pos = (720,0);
+=======
+pos = (634,0);
+>>>>>>> parent of 0fbe559928 (italic /a is now single storey)
 ref = ogonek;
 }
 );
@@ -23,11 +27,15 @@ shapes = (
 ref = aring;
 },
 {
-pos = (655,0);
+pos = (560,0);
 ref = ogonek;
 }
 );
+<<<<<<< HEAD
 width = 1249;
+=======
+width = 1155;
+>>>>>>> parent of 0fbe559928 (italic /a is now single storey)
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";

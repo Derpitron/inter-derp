@@ -18,11 +18,19 @@ layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
 shapes = (
 {
 angle = 180;
+<<<<<<< HEAD
 pos = (1249,1118);
 ref = a;
 }
 );
 width = 1249;
+=======
+pos = (1155,1118);
+ref = a;
+}
+);
+width = 1155;
+>>>>>>> parent of 0fbe559928 (italic /a is now single storey)
 },
 {
 anchors = (
