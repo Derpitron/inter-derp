@@ -63,8 +63,5 @@ ref = bracketright.sups;
 width = 314;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 57523;
 }

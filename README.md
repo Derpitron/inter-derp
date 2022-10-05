@@ -96,8 +96,8 @@ Inter is a [variable font](https://rsms.me/inter/#variable) and is in addition a
 
 ## Changes
 Inter Derp has changes which fit my own vision of Inter, and reverts some changes to Inter which I do not agree with. The list of changes is as follows:
-- Alternate /t without a curved hook end
-- Alternate /y without a curved hook end
-- Restores double-storey /a as the default form of /a in the Italic family (/a.1 is still accessible)
+- [ ] Alternate /t without a curved hook end
+- [ ] Alternate /y without a curved hook end
+- [x] Restores double-storey /a as the default form of /a in the Italic family (/a.1 is still accessible)
 
 *All diacritic/compound glyphs are also changed with these.

@@ -368,9 +368,6 @@ width = 1176;
 }
 );
 metricWidth = plus;
-tags = (
-"TODO-opsz"
-);
 unicode = 247;
 userData = {
 "interface.width-adjustments" = (

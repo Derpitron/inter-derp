@@ -88,8 +88,5 @@ ref = dieresismacroncomb.cn;
 width = 0;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 57613;
 }

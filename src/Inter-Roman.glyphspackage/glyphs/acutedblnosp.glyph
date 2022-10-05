@@ -204,8 +204,5 @@ width = 0;
 }
 );
 note = "match dblgravecmb";
-tags = (
-"TODO-opsz"
-);
 unicode = 779;
 }

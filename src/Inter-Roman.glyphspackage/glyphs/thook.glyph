@@ -83,9 +83,6 @@ width = 584;
 }
 );
 note = "Recipe:\0121. add & decompose /t\0122. remove all anchors but top and bottom\0123. lower top";
-tags = (
-"TODO-opsz"
-);
 unicode = 429;
 userData = {
 interface.gridadjust.original = "{'width': 941, 'leftMargin': 30, 'rightMargin': 83}";

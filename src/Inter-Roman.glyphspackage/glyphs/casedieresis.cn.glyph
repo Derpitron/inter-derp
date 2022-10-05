@@ -106,7 +106,4 @@ width = 1222;
 }
 );
 metricWidth = dieresis;
-tags = (
-"TODO-opsz"
-);
 }

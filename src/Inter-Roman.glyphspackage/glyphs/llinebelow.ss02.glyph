@@ -83,8 +83,5 @@ ref = macronsubnosp;
 width = 322;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 57435;
 }

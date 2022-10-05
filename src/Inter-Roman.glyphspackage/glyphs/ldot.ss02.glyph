@@ -101,8 +101,5 @@ width = 324;
 );
 metricLeft = ldot;
 metricRight = ldot;
-tags = (
-"TODO-opsz"
-);
 unicode = 57429;
 }

@@ -176,9 +176,6 @@ nodes = (
 width = 576;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 8249;
 userData = {
 "interface.width-adjustments" = (

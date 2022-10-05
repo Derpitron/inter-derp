@@ -160,8 +160,5 @@ width = 1082;
 }
 );
 metricWidth = zero.tf;
-tags = (
-"TODO-opsz"
-);
 unicode = 57468;
 }

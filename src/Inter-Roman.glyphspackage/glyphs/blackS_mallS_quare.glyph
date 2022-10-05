@@ -93,8 +93,5 @@ width = 896;
 }
 );
 metricWidth = bullet;
-tags = (
-"TODO-opsz"
-);
 unicode = 9642;
 }

@@ -82,8 +82,5 @@ ref = crossbar;
 width = 782;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 1171;
 }

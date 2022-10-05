@@ -82,8 +82,5 @@ ref = acute;
 width = 1129;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 1036;
 }

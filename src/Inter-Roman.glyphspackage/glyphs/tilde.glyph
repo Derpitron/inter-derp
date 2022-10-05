@@ -358,9 +358,6 @@ nodes = (
 width = 960;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 732;
 userData = {
 interface.gridadjust.original = "{'width': 1352, 'leftMargin': 175, 'rightMargin': 194}";
