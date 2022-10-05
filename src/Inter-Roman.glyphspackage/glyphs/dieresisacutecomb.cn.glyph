@@ -186,8 +186,5 @@ ref = casedieresis.cn;
 width = 0;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 57633;
 }

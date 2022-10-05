@@ -173,8 +173,5 @@ ref = dotaccent;
 width = 0;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 803;
 }

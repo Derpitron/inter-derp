@@ -88,9 +88,6 @@ width = 1060;
 );
 metricLeft = encyrillic;
 metricRight = t;
-tags = (
-"TODO-opsz"
-);
 unicode = 1226;
 userData = {
 interface.gridadjust.original = "{'width': 1760.0, 'leftMargin': 164, 'rightMargin': -5.0}";

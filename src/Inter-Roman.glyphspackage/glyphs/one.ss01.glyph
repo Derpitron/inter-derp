@@ -517,8 +517,5 @@ width = 740;
 }
 );
 metricRight = one;
-tags = (
-"TODO-opsz"
-);
 unicode = 57452;
 }

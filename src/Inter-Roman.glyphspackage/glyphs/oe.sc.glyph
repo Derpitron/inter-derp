@@ -464,9 +464,6 @@ nodes = (
 width = 1780;
 }
 );
-tags = (
-"TODO-opsz"
-);
 userData = {
 interface.gridadjust.original = "{'width': 2375, 'leftMargin': 172, 'rightMargin': 120}";
 "interface.width-adjustments" = (

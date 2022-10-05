@@ -105,7 +105,4 @@ ref = tilde;
 width = 724;
 }
 );
-tags = (
-"TODO-opsz"
-);
 }

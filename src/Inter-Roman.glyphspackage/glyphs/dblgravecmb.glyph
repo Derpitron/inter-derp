@@ -260,8 +260,5 @@ width = 0;
 }
 );
 note = "match acutedblnosp";
-tags = (
-"TODO-opsz"
-);
 unicode = 783;
 }

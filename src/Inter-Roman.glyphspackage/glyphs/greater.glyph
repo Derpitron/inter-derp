@@ -199,9 +199,6 @@ width = 1176;
 );
 metricLeft = "=|less";
 metricRight = "=|less";
-tags = (
-"TODO-opsz"
-);
 unicode = 62;
 userData = {
 "interface.width-adjustments" = (

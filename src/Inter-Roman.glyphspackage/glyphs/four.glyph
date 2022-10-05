@@ -245,8 +245,5 @@ nodes = (
 width = 1090;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 52;
 }

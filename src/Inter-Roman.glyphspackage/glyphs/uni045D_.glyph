@@ -82,8 +82,5 @@ ref = grave;
 width = 1220;
 }
 );
-tags = (
-"TODO-opsz"
-);
 unicode = 1117;
 }
