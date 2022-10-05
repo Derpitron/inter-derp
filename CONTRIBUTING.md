@@ -1,5 +1,7 @@
 # Contributing to the Inter font project
 
+**This project is a derivative version of Inter. Some parts may be changed from the source.**
+
 First off, thank you for considering contributing to Inter.
 It's people like you that make the Internet such a great place.
 
