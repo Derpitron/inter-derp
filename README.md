@@ -1,77 +1,64 @@
-# Inter
+# Inter Derp
 
-Inter is a typeface carefully crafted & designed for computer screens.
-Inter features a tall x-height to aid in readability of mixed-case and lower-case text.
-Inter is a [variable font](https://rsms.me/inter/#variable) with
-several [OpenType features](https://rsms.me/inter/#features), like contextual alternates that adjusts punctuation depending on the shape of surrounding glyphs, slashed zero for when you need to disambiguate "0" from "o", tabular numbers, etc.
+**Inter Derp** is a work-in-progress fork of the [Inter](https://github.com/rsms/inter) typeface which has been carefully crafted & designed for computer screens; then modified according to my tastes.
+Inter Derp features a tall x-height to aid in readability of mixed-case and lower-case text.
+Inter Derp is a [variable font](https://rsms.me/inter/#variable) with
+several [OpenType features](https://rsms.me/inter/#features), like contextual alternates that adjusts punctuation depending on the shape of surrounding glyphs, slashed zero for when you need to disambiguate "0" from "o", tabular numbers. It is non-opinionated and does not force you to use a specific look and feel of text, allowing it to be a much more versatile, flexible font.
 
-[**Download Inter font files…**](https://github.com/rsms/inter/releases/latest)
+[**Download Inter Derp font files…**](https://github.com/hydino2085143/inter-derp/releases/latest)
 
 <br>
 
 [![Sample](misc/readme/intro.png)](https://rsms.me/inter/samples/)
 
+### Changes
+Inter Derp has changes which fit my own vision of Inter, and reverts some changes to Inter which I do not agree with. The list of planned changes is as follows:
+- [ ] Alternate /t without a curved hook end
+- [ ] Alternate /y without a curved hook end
+- [ ] Alternate /j without a curved hook end
+- [ ] Restores the old oblique-style italic glyphs to the Italic family as a stylistic set. (As of 4.0-beta 5, this applies only to /a, /e, and /f.)
+- [ ] "Book" stylistic set which removes curved tails
+- [ ] Inter Text Roman's /a has a straight terminal (Might expand to other characters as I see fit)
+- [ ] Shape of /a changed slightly to have a straight junction, rather than the current curved look.
+- [ ] Widening of Inter Light fonts slightly
+
+This list of changes is only a roadmap, it will be ticked off as and when I finish each item.
+
+*All diacritic/compound glyphs will also be changed with these.
 
 ### Quick questions
 
-- **Where can I get Inter?** [Here](https://github.com/rsms/inter/releases/latest)
-- **I think I found a bug. How can I let you know?** [Open an issue here](https://github.com/rsms/inter/issues/new?template=bug_report.md)
-- **I have a question. Where can I get help?** [Post in Discussions Q&A](https://github.com/rsms/inter/discussions/categories/q-a)
-- **Should I use Inter from Google Fonts?** No, unless you have no other choice.
-  (outdated, no italics)
-- **Can I legally use Inter for my purpose?** Most likely _yes!_ Inter is free and open source.
+- **Where can I get Inter Derp?** [Here](https://github.com/hydino2085143/inter-derp/releases/latest)
+- **I think I found a bug. How can I let you know?** Inter Derp is a forked version of Inter. If your issue pertains to the main font itself, [open an issue on the original font here.](https://github.com/rsms/inter/issues/new?template=bug_report.md) Unless your issue is related to any changes which I have explicitly outlined [here](https://github.com/hydino2085143/inter-derp#changes).
+- **I have a question. Where can I get help?** [Post in Discussions Q&A](https://github.com/hydino2085143/inter-derp/discussions/categories/q-a)
+- **Why should I use Inter Derp?** Inter Derp offers alternate character styles for the `t` and `y` characters which are more "casual" in nature, making it a good fit for casual designs such as website headers or children's books. If you however need a completely stable, professional font, I recommend that you use the official Inter font.
+- **Can I legally use Inter Derp for my purpose?** Most likely _yes!_ Inter Der[] is free and open source.
   ([Read the license](LICENSE.txt) for details.)
+- **Why did you make a derivative version of Inter?** I wanted to make a version of the Inter font for my own uses and tastes, unencumbered by the more practical concerns and needs of the Inter project. 
 
+## Using & installing Inter Derp
 
-## Using & installing Inter
-
-- [**Download the latest font files…**](https://github.com/rsms/inter/releases/latest)
-- To use Inter on a web page, use the official
-  [CDN distribution](https://rsms.me/inter/inter.css) with the following HTML and CSS:
-
-```html
-<link rel="preconnect" href="https://rsms.me/">
-<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-```
+- [**Download the latest font files…**](https://github.com/hydino2085143/inter-derp/releases/latest)
+- No CDN is currently offered for webfont files of Inter Derp. You will have to self-host.
 
 ```css
-:root { font-family: 'Inter', sans-serif; }
+:root { font-family: 'Inter Derp', sans-serif; }
 @supports (font-variation-settings: normal) {
-  :root { font-family: 'Inter var', sans-serif; }
+  :root { font-family: 'Inter Derp var', sans-serif; }
 }
 ```
 
-### Alternate distributions
-
-- [NPM `inter-ui`](https://www.npmjs.com/package/inter-ui)
-- [Homebrew `font-inter`](https://github.com/Homebrew/homebrew-cask-fonts)
-- [Ubuntu `fonts-inter`](https://packages.ubuntu.com/search?keywords=fonts-inter)
-- [List of Inter available on various Linux distributions…](https://repology.org/project/fonts:inter/versions)
-- [Google Fonts](https://fonts.google.com/specimen/Inter) (outdated version, no italics)
-
-**Disclaimer:** Alternate distributions may not always be up-to-date.
-
-
-### Derivative versions
-
+### Friends of Inter Derp
+- [Official Inter Typeface](https://github.com/rsms/inter)
 - [Inter with Shavian character support](https://github.com/Shavian-info/interalia)
 
 
-## Notable projects using Inter
-
-- [Figma](https://figma.com/)
-- [Unity](https://unity.com/)
-- [ElementaryOS](https://elementary.io/)
-- [Zurich Airport](https://flughafen-zuerich.ch/)
-- [Element software suite](https://element.io/)
-- [Mozilla brand](https://mozilla.design/firefox/typography/)
-- [GitHub brand and documentation](https://github.com/about)
-- [Pixar Presto](https://en.wikipedia.org/wiki/Presto_(animation_software))
-- [Minimalissimo magazine](https://minimalissimo.com/)
+## Notable projects using Inter Derp
+- None so far.
 
 
-> **Have you made something nice with Inter?**<br>
-> [Please share in Show & Tell! →](https://github.com/rsms/inter/discussions/categories/show-and-tell)
+> **Have you made something nice with Inter Derp?**<br>
+> [Please share in Show & Tell! →](https://github.com/hydino2085143/inter-derp/discussions/categories/show-and-tell)
 
 
 ## Supporters & contributors
@@ -79,12 +66,13 @@ several [OpenType features](https://rsms.me/inter/#features), like contextual al
 A wholehearted **Thank You** to everyone who supports the Inter project!
 
 Special thanks to
+[@rsms](https://github.com/rsms), for creating and maintaining the original Inter font.
 [@thundernixon](https://github.com/thundernixon) and
 [@KatjaSchimmel](https://github.com/KatjaSchimmel)
 who have put in significant effort into making Inter what it is through
 their contributions ♡
 
-See [graphs/contributors](https://github.com/rsms/inter/graphs/contributors)
+See [graphs/contributors](https://github.com/hydino2085143/inter-derp/graphs/contributors)
 for a complete list of all contributors.
 
 
@@ -120,4 +108,3 @@ Inter is a [variable font](https://rsms.me/inter/#variable) and is in addition a
 | Bold                 | Bold Italic          | 700
 | Extra Bold           | Extra Bold Italic    | 800
 | Black                | Black Italic         | 900
-
